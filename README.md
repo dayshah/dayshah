@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to my GitHub! 👋 (this is still a work in progress but... new stuff coming soon!)
 
 <!--
 **dayshah/dayshah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,6 +16,4 @@ Here are some ideas to get you started:
 -->
 - 📫 How to reach me: dhyey2019@gmail.com | [linkedin.com/in/dshah332](https://www.linkedin.com/in/dshah332)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dayshah&layout=compact)]
 
