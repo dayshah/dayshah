@@ -1,4 +1,4 @@
-### Welcome to my special GitHub! 🦸 (this is still a work in progress but... new stuff coming soon!)
+### Welcome to my special GitHub! :turtle (this is still a work in progress but... new stuff coming soon!)
 
 <!--
 **dayshah/dayshah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
