@@ -1,10 +1,10 @@
-### Welcome to my GitHub! 🐢 (this is still a work in progress but... new stuff coming soon!) 
+### Welcome to my GitHub! 🐢 (this is still a work in progress but... new stuff coming soon!)
 
 <!--
 **dayshah/dayshah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+:downarrow
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="60" height="60"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="60" height="60"/>&nbsp;
 
-### Stuff I've Built
+### Some Stuff I've Built :arrow_down:
