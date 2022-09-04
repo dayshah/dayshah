@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: ...
 -->
+- 📫 How to reach me: dhyey2019@gmail.com / linkedin.com/in/dshah332/
