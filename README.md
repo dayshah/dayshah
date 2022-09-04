@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 - 📫 How to reach me: dhyey2019@gmail.com | [linkedin.com/in/dshah332](https://www.linkedin.com/in/dshah332)
 
-### Stuff I'm Good at Building With
+### stuff i'm good at building with
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="60" height="60"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="60" height="60"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="60" height="60"/>&nbsp;
 
-### Some Stuff I've Built :arrow_down:
+### stuff i've built :arrow_down:
