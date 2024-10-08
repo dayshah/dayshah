@@ -1,4 +1,4 @@
-### Welcome to my GitHub! 🐢 (this is still a work in progress but... new stuff coming soon!)
+### Welcome to my GitHub! 🐢 
 
 <!--
 **dayshah/dayshah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
