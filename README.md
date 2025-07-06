@@ -1,4 +1,4 @@
-### Welcome to my GitHub! 🐢 
+### Welcome to my GitHub! 🐢 🐈‍⬛
 
 <!--
 **dayshah/dayshah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 - 📫 How to reach me: dhyey2019@gmail.com | [linkedin.com/in/dshah332](https://www.linkedin.com/in/dshah332)
 
-### Stuff I am good at building with
+### Stuff I like building with
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="60" height="60"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="60" height="60"/>&nbsp;
 
-### Some stuff I'm working on:
+### Stuff I'm working on:
